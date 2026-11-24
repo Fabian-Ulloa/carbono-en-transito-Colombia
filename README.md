@@ -6,11 +6,11 @@ Proyecto de análisis de datos con Python y Jupyter Notebook — Universitaria A
 
 | Integrante | ID | Parte | Archivo |
 |---|---|---|---|
-| Luis Fabián Ulloa Rodríguez | 45210 | **Parte 1:** carga, exploración y limpieza | `01_Parte1_Carga_y_limpieza_Luis_Fabian.ipynb` |
-| Luis Andrés Santos Cortés | 45297 | **Parte 2:** visualización (3 gráficos) | `02_Parte2_Visualizacion_Luis_Andres.ipynb` |
-| Michelle Andrea Murillo Gonzalez | 37858 | **Parte 3:** modelo de regresión lineal, interpretación y conclusiones | `03_Parte3_Modelo_e_interpretacion_Michelle.ipynb` |
+| Luis Fabián Ulloa Rodríguez | 45210 | **Parte 1:** carga, exploración y limpieza | `01 Luis Fabian.ipynb` |
+| Luis Andrés Santos Cortés | 45297 | **Parte 2:** visualización (3 gráficos) | `02 Luis Andres.ipynb` |
+| Michelle Andrea Murillo Gonzalez | 37858 | **Parte 3:** modelo de regresión lineal, interpretación y conclusiones | `03 Michelle.ipynb` |
 
-El archivo `Comercio_CO2_Colombia_COMPLETO.ipynb` reúne las tres partes en un solo cuaderno, de principio a fin.
+El archivo `Comercio CO2 Colombia.ipynb` reúne las tres partes en un solo cuaderno, de principio a fin.
 
 ## Descripción
 Casi siempre se habla de las emisiones que un país *produce*. Pero los países también compran y venden productos cuya fabricación emitió CO₂. Este proyecto usa el dato **"Share of CO₂ emissions embedded in trade"** de Our World in Data para responder:
