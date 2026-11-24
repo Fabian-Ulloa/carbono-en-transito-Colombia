@@ -42,7 +42,7 @@ jupyter notebook
 Abrir cualquier cuaderno y ejecutar las celdas en orden con **Shift + Enter**. Se necesita internet para descargar los datos. Cada parte funciona por sí sola.
 
 ## Qué aprendió cada integrante
-- **Luis Fabián:** (escribir aquí una o dos frases)
+- **Luis Fabián:** Aprendí a descargar datos de internet con Python y a limpiarlos: quitar datos repetidos y vacíos y quedarme solo con los de Colombia.
 - **Luis Andrés:** (escribir aquí una o dos frases)
 - **Michelle:** (escribir aquí una o dos frases)
 
