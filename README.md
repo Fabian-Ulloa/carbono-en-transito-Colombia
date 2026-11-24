@@ -44,8 +44,7 @@ Abrir cualquier cuaderno y ejecutar las celdas en orden con **Shift + Enter**. S
 ## Qué aprendió cada integrante
 - **Luis Fabián:** Aprendí a descargar datos de internet con Python y a limpiarlos: quitar datos repetidos y vacíos y quedarme solo con los de Colombia.
 - **Luis Andrés:** (escribir aquí una o dos frases)
-- **Michelle:** (escribir aquí una o dos frases)
-
+- **Michelle:** Aprendí a hacer una regresión lineal para ver la tendencia de los datos y a interpretar sus resultados, entendiendo que el modelo no predice con exactitud.
 ## Limitaciones
 - No todos los países tienen datos de comercio de buena calidad.
 - Solo incluye CO₂ de combustibles fósiles e industria (no uso de la tierra ni deforestación).
